@@ -10,6 +10,9 @@ The notebook uses this two external libraries, it is very importat to have tha l
 
 ```bash
 !pip install yfinance
+```
+
+```bash
 !pip install ipywidgets
 ```
 
@@ -22,3 +25,5 @@ In some types of notebooks (like Colab) the `%matplotlib` widget can create head
 + Run the `Setup` and `Interaction` groups
 + Choose the assets and the period of interest
 + Run the `Calculations` and `Plot` groups
+
+![1706804524561](image/README/1706804524561.png)
