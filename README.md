@@ -13,12 +13,12 @@ The notebook uses this two external libraries, it is very importat to have tha l
 !pip install ipywidgets
 ```
 
-In some types of notebooks (like Colab) `%matplotlib` widget can create headaches so it is better to just comment it like this:
+In some types of notebooks (like Colab) the `%matplotlib` widget can create headaches so it is better to just comment it like this:
 
 ![1706788828177](image/README/1706788828177.png)
 
 ## How to use it
 
-+ Run the `Setup` and `Interaction` group
++ Run the `Setup` and `Interaction` groups
 + Choose the assets and the period of interest
 + Run the `Calculations` and `Plot` groups
