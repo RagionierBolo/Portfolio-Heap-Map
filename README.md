@@ -1,12 +1,12 @@
 # Portfolio Heap Map
 
-This notebook creates a heap map showing the correlation matrix of the assets returns of our choosing. The historical data comes from the Yahoo Finance API
+This notebook creates a heap map showing the correlation matrix of the asset returns of our choosing. The historical data comes from the Yahoo Finance API
 
 ![1706789572329](image/README/1706789572329.png)
 
 ## Setup
 
-The notebook uses this two external libraries, it is very importat to have tha last version of `yfinance`.
+The notebook uses these two external libraries, it is very important to have the last version of `yfinance`.
 
 ```bash
 !pip install yfinance
